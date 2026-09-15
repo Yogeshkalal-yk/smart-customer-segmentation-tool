@@ -1,3 +1,5 @@
+ https://smart-customer-segmentation-tool-kqgsvgq3wmzmzdg2lqjxh2.streamlit.app/
+
 # Smart Customer Segmentation Tool
 
 Smart Customer Segmentation Tool is a Python-based Streamlit application that analyzes customer transaction data and groups customers according to their spending behavior and purchase frequency. It also uses Google Gemini AI to generate practical business recommendations.
